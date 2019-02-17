@@ -16,6 +16,4 @@ class Card
   def self.values
   end
 
-  def self.points_value(card)
-  end
 end
